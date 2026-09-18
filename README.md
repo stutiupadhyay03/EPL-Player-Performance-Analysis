@@ -67,4 +67,4 @@ Extends the EDA with a full preprocessing and modeling pipeline.
 
 ---
 
-*This work is part of a broader sports analytics portfolio. Nine published analytical articles on EPL 2023 are available at [goworldwide.co.in](https://goworldwide.co.in).*
+*This work is part of a broader sports analytics portfolio. Nine published analytical articles on EPL 2023 are available at [goworldwide.co.in]([https://goworldwide.co.in](https://goworldwide.co.in/category/football-2/)).*
